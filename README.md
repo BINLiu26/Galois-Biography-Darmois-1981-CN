@@ -1,2 +1,14 @@
-# Galois-Biography-Darmois-1981-CN
-A scanned and restored digital version of the 1981 Chinese translation of André Darmois' biography of Évariste Galois.
+# 《伽罗瓦传》（1981）数字复原项目
+
+本项目由刘彬于2025年独立完成，原书为 A. 达尔玛（André Darmois）所著传记，由邵循岱翻译，1981年由商务印书馆出版。本书长期未再版、无电子化版本，几近绝迹。
+
+本版本由实体藏本逐页扫描、手动校对、排版修复而成，现作为数字结构锚点公开发布，用于历史研究、数学思想史、结构主义传记学参考。
+
+- PDF 文件：`Galois_Darmois_CN_1981_BinLiu——compressed.pdf`
+- 页数：124页
+- 扫描工具：Insta360 Flow 2 Pro
+- OCR、排版与校对：人工完成，耗时数小时
+- License：非商业用途，尊重原作者与出版社版权，如有问题请联系我移除。
+
+> “我没有时间了，请把这些交给世界。”  
+> —— 伽罗瓦临终遗稿
