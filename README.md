@@ -7,7 +7,7 @@ This project was independently completed by Bin Liu in 2025. The original book i
 本版本由实体藏本逐页扫描、手动校对、排版修复而成，现作为数字结构锚点公开发布，用于历史研究、数学思想史、结构主义传记学参考。  
 This edition was created by scanning a physical library copy page by page, followed by manual proofreading and typographic restoration. It is now publicly released as a digital structural anchor, intended for use in historical research, the intellectual history of mathematics, and structuralist biography studies.
 
-- PDF 文件：`Galois_Darmois_CN_1981_BinLiu——compressed.pdf`  
+- PDF 文件：`伽罗瓦传_Galois_Darmois_CN_1981_BinLiu——compressed.pdf`  
 - 页数：124页  
 - Scanned Pages: 124  
 - 扫描工具：Insta360 Flow 2 Pro  
